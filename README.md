@@ -16,6 +16,8 @@ Compute the inverse of matrix A using np.linalg.inv()
 ### Step 4: 
 Print & end the program.
 ## Program:
+Developed by : JAIKANTH B
+Register no : 2305002010
 ```
 import numpy as np
 A=np.array([[6,2,3,],[3,1,1],[10,3,4]])
